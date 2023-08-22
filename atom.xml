@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-08-22T06:20:38.217Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇Blog</title>
+    <link href="http://example.com/2023/08/22/%E6%A2%A6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9/"/>
+    <id>http://example.com/2023/08/22/%E6%A2%A6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9/</id>
+    <published>2023-08-22T06:19:01.000Z</published>
+    <updated>2023-08-22T06:20:38.217Z</updated>
+    
+    <content type="html"><![CDATA[<p>恐龙抗狼</p><span id="more"></span><p>哈哈哈</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;恐龙抗狼&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="First" scheme="http://example.com/tags/First/"/>
+    
+  </entry>
+  
+</feed>
